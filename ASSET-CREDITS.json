@@ -1,0 +1,81 @@
+[
+  {
+    "file": "champagne.jpg",
+    "source": "https://unsplash.com/photos/Hrgv_0fmOI4",
+    "image": "https://images.unsplash.com/photo-1618434958571-459c9c972ae8?auto=format&fit=crop&w=1600&q=85&fm=jpg",
+    "author": "Susan Wilkinson",
+    "license": "Free Unsplash License",
+    "use": "Editorial demo image, not our products or facilities",
+    "bytes": 582520
+  },
+  {
+    "file": "ivory-silk.jpg",
+    "source": "https://unsplash.com/photos/PyjLCMReMns",
+    "image": "https://images.unsplash.com/photo-1606259458027-54d2a728b6ab?auto=format&fit=crop&w=1600&q=85&fm=jpg",
+    "author": "Susan Wilkinson",
+    "license": "Free Unsplash License",
+    "use": "Editorial demo image, not our products or facilities",
+    "bytes": 681589
+  },
+  {
+    "file": "indigo.jpg",
+    "source": "https://unsplash.com/photos/tTE53EwyK5Y",
+    "image": "https://images.unsplash.com/photo-1617238793696-9035e7fc1825?auto=format&fit=crop&w=1600&q=85&fm=jpg",
+    "author": "Ryunosuke Kikuno",
+    "license": "Free Unsplash License",
+    "use": "Editorial demo image, not our products or facilities",
+    "bytes": 343523
+  },
+  {
+    "file": "folds.jpg",
+    "source": "https://unsplash.com/photos/t3mSDMjd9ZY",
+    "image": "https://images.unsplash.com/photo-1705493253566-1522b9015c58?auto=format&fit=crop&w=1600&q=85&fm=jpg",
+    "author": "Victor Volkov",
+    "license": "Free Unsplash License",
+    "use": "Editorial demo image, not our products or facilities",
+    "bytes": 944810
+  },
+  {
+    "file": "boucle.jpg",
+    "source": "https://unsplash.com/photos/EkkyhGgK9r4",
+    "image": "https://images.unsplash.com/photo-1636716019138-750a1b011e3f?auto=format&fit=crop&w=1600&q=85&fm=jpg",
+    "author": "engin akyurt",
+    "license": "Free Unsplash License",
+    "use": "Editorial demo image, not our products or facilities",
+    "bytes": 649187
+  },
+  {
+    "file": "salon.jpg",
+    "source": "https://unsplash.com/photos/-UbM0EmuPcU",
+    "image": "https://images.unsplash.com/photo-1757382603619-7682803cfc5d?auto=format&fit=crop&w=1600&q=85&fm=jpg",
+    "author": "EZcurtain Life",
+    "license": "Free Unsplash License",
+    "use": "Editorial demo image, not our products or facilities",
+    "bytes": 328201
+  },
+  {
+    "file": "prints.jpg",
+    "source": "https://unsplash.com/photos/HKVM_Ixae54",
+    "image": "https://images.unsplash.com/photo-1771098206750-6be5aef4f503?auto=format&fit=crop&w=1600&q=85&fm=jpg",
+    "author": "Bernd Dittrich",
+    "license": "Free Unsplash License",
+    "use": "Editorial demo image, not our products or facilities",
+    "bytes": 519276
+  },
+  {
+    "file": "fabric-drape.jpg",
+    "url": "https://images.unsplash.com/photo-1578500467296-441a11d5d55a?auto=format&fit=crop&w=1600&q=85",
+    "author": "Katsia Jazwinska",
+    "source": "https://unsplash.com/photos/beige-curtain-cTA8m7VwejE",
+    "use": "Editorial concept imagery, not a Thai Kim product photograph",
+    "license": "Unsplash License"
+  },
+  {
+    "file": "linen-texture.jpg",
+    "url": "https://images.unsplash.com/photo-1528458909336-e7a0adfed0a5?auto=format&fit=crop&w=1000&q=85",
+    "author": "Annie Spratt",
+    "source": "https://unsplash.com/photos/beige-linen-fabric-texture-background-xTaOPMa6wAE",
+    "use": "Illustrative swatches; colors are digitally tinted concept references, not actual SKUs",
+    "license": "Unsplash License"
+  }
+]
